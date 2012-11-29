@@ -1,8 +1,8 @@
 frontmatter:
 about-the-book.md
-Acknowledgments.md
-Preface.md
-Introduction.md
+acknowledgments.md
+preface.md
+introduction.md
 
 mainmatter:
 part-01.md
@@ -29,6 +29,9 @@ chapter-15.md
 backmatter:
 part-06.md
 appendix-01.md
+tables/Access Control detection points.md
+tables/Authentication Detection Points.md
+tables/Command Injection Detection Points.md
 appendix-02.md
 appendix-03.md
 appendix-04.md
