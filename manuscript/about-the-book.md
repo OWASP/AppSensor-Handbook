@@ -8,4 +8,5 @@ The book is available as PDF7, EPUB8 (iPad, iPhone, iPod) and MOBI9 (Kindle) fil
 
 
 ![](images/ccbysa.png)
+
 This book is licensed under a [Creative Commons](http://creativecommons.org/) [CC-BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) license.

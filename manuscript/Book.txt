@@ -1,4 +1,5 @@
 frontmatter:
+about-the-book.md
 Acknowledgments.md
 Preface.md
 Introduction.md
@@ -35,4 +36,3 @@ appendix-05.md
 appendix-06.md
 appendix-07.md
 appendix-08.md
-bibliography.md
