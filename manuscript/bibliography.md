@@ -1,10 +1,10 @@
 # Bibliography
 
-1[^mc-appsensor]
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[Michael Coates][mc-appsensor]
 
-[^mc-appsensor]:Coates M [AppSensor, v1.1, OWASP](https://www.owasp.org/images/2/2f/OWASP_AppSensor_Beta_1.1.pdf)
-[^mc-autappdef]: Coates M [Automated Application Defenses to Thwart Advanced Attackers](http://michael-coates.blogspot.com/2010/06/online-presentation-thursday-automated.html)
-[^mc-crosstalk]: Coates M,  Groves D, Melton J and Watson C, Creating Attack-Aware Software Applications with Real-Time Defenses, [CrossTalk—The Journal of Defense Software Engineering, Vol. 24, No. 5, Sep/Oct 2011](http://www.crosstalkonline.org/storage/issue-archives/2011/201109/201109-Watson.pdf)
+[mc-appsensor]:Coates M [AppSensor, v1.1, OWASP](https://www.owasp.org/images/2/2f/OWASP_AppSensor_Beta_1.1.pdf)
+[^mc-autappdef]:Coates M [Automated Application Defenses to Thwart Advanced Attackers](http://michael-coates.blogspot.com/2010/06/online-presentation-thursday-automated.html)
+[^mc-crosstalk]:Coates M,  Groves D, Melton J and Watson C, Creating Attack-Aware Software Applications with Real-Time Defenses, [CrossTalk—The Journal of Defense Software Engineering, Vol. 24, No. 5, Sep/Oct 2011](http://www.crosstalkonline.org/storage/issue-archives/2011/201109/201109-Watson.pdf)
 [^dhs-ressoft]: [Resilient Software](https://buildsecurityin.us-cert.gov/swa/attackaware.html), Software Assurance, US Dept Homeland Security 
 7 damontoo, Etsy Has Been One of the Best Companies I've Reported Holes To  http://www .reddit.com/r/netsec/comments/vbrzg/etsy_has_been_one_of_the_best_companies_i ve/
 8 Lackey Z, Security at Scale: Effective Approaches to Web Application Security, Etsy http://www .slideshare.net/zanelackey
