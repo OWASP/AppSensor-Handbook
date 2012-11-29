@@ -28,4 +28,11 @@ chapter-15.md
 backmatter:
 part-06.md
 appendix-01.md
+appendix-02.md
+appendix-03.md
+appendix-04.md
+appendix-05.md
+appendix-06.md
+appendix-07.md
+appendix-08.md
 bibliography.md

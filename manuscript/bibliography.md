@@ -1,5 +1,6 @@
 # Bibliography
 
+1[^mc-appsensor]
 
 [^mc-appsensor]:Coates M [AppSensor, v1.1, OWASP](https://www.owasp.org/images/2/2f/OWASP_AppSensor_Beta_1.1.pdf)
 [^mc-autappdef]: Coates M [Automated Application Defenses to Thwart Advanced Attackers](http://michael-coates.blogspot.com/2010/06/online-presentation-thursday-automated.html)
