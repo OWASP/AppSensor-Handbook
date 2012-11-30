@@ -1,37 +1,39 @@
-frontmatter:
+frontmatter.txt
+
 about-the-book.md
 acknowledgments.md
-preface.md
-introduction.md
 
-mainmatter:
+mainmatter.txt
+
 part-01.md
 chapter-01.md
 chapter-02.md
 chapter-03.md
+
 part-02.md
 chapter-04.md
 chapter-05.md
 chapter-06.md
+
 part-03.md
 chapter-07.md
 chapter-08.md
 chapter-09.md
-part-04.md
 chapter-10.md
+
+part-04.md
 chapter-11.md
 chapter-12.md
+
 part-05.md
 chapter-13.md
 chapter-14.md
 chapter-15.md
 
-backmatter:
+backmatter.txt
+
 part-06.md
 appendix-01.md
-tables/Access Control detection points.md
-tables/Authentication Detection Points.md
-tables/Command Injection Detection Points.md
 appendix-02.md
 appendix-03.md
 appendix-04.md
