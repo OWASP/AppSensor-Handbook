@@ -3,11 +3,21 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Project Leadership  
 
-[Michael Coates](Michael.Coates@owasp.org), [John Melton](John.Melton@owasp.org), [Colin Watson](Colin.Watson@owasp.org)
+- [Michael Coates](Michael.Coates@owasp.org)
+- [John Melton](John.Melton@owasp.org)
+- [Colin Watson](Colin.Watson@owasp.org)
 
 ## Project Contributors
 
-[Ryan Barnett](Ryan.Barnett@owasp.org), [Simon Bennetts](Simon.Bennetts@owasp.org), [August Detlef](August.Detlef@owasp.org), [Randy Janida](Randy.Janida@owasp.org), [Jim Manico](Jim.Manico@owasp.org), [Giri Nambari](Giri.Nambari@owasp.org), [Eric Sheridan](Eric.Sheridan@owasp.org), [Kevin Wall](Kevin.Wall@owasp.org), [Dennis Groves](Dennis.Groves@owasp.org)
+- [Ryan Barnett](Ryan.Barnett@owasp.org)
+- [Simon Bennetts](Simon.Bennetts@owasp.org)
+- [August Detlef](August.Detlef@owasp.org)
+- [Randy Janida](Randy.Janida@owasp.org)
+- [Jim Manico](Jim.Manico@owasp.org)
+- [Giri Nambari](Giri.Nambari@owasp.org)
+- [Eric Sheridan](Eric.Sheridan@owasp.org)
+- [Kevin Wall](Kevin.Wall@owasp.org)
+- [Dennis Groves](Dennis.Groves@owasp.org)
 
 ## Other Contributors
 The book cover is the "[Praying mantis insect photo](http://www.public-domain-image.com/full-image/fauna-animals-public-domain-images-pictures/insects-and-bugs-public-domain-images-pictures/praying-mantis-pictures/praying-mantis-insect-photo.jpg-copyright-friendly-photo.html)" by Confield Doug, U.S. Fish and Wildlife Service.

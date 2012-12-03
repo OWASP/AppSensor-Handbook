@@ -1,4 +1,4 @@
-# OWASP AppSensor Handbook Overview
+# A roadmap of the OWASP AppSensor Handbook
 
 This book is written in 6 parts each covering a different and essential part of the OWASP AppSensor development design pattern.
 
